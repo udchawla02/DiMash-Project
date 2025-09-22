@@ -48,7 +48,7 @@ This is the result after our AI model processes the diagram. You can see how dif
 
 **Note:** You'll need to upload your results image to the `figures` folder. For this example to work, name it `Heizung_1_segmented.png`.
 
-![AI-based segmentation of the heating diagram](figures/Heizung_1_segmented.png)
+![AI-based segmentation of the heating diagram](figures/OUTPUT1.png)
 
 ---
 
