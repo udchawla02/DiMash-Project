@@ -36,10 +36,10 @@ This tool automates the interpretation of plant diagrams through a multi-step AI
 
 Here are some figures that showcase our data and results.
 
-**Figure 1: AI-based Segmentation of a Plant Diagram**
-DATA (figures/Heizung_1.png)
+**Figure 1: Graph of a Plant Diagram**
+DATA (Heizung_1.png)
 
-**Figure 1: AI-based Segmentation of a Plant Diagram**
+**Figure 2: AI-based Segmentation of a Plant Diagram**
 RESULTS (figures/Heizung_1.png)
 
 ---
