@@ -2,9 +2,6 @@
 
 **Project Name:** DiMash - Digitization of Plant Diagrams for Increasing the Energy Performance of Existing Buildings
 
-![A collage of technical diagrams and AI network graphs](https://i.imgur.com/your-image-url.png)
-_Replace this with a link to your own project banner or an example figure._
-
 ## 📜 Overview
 
 The **DiMash** project enhances the energy performance of existing buildings by digitizing technical plant diagrams using advanced AI techniques. By converting these diagrams into a digital format, we facilitate energy-efficient renovations, improve system monitoring, and develop tools for energy optimization using AI and Building Information Modeling (BIM).
@@ -37,14 +34,13 @@ This tool automates the interpretation of plant diagrams through a multi-step AI
 
 ## ✨ Project Visuals
 
-Here are some figures that showcase our process and results.
+Here are some figures that showcase our data and results.
 
 **Figure 1: AI-based Segmentation of a Plant Diagram**
-_In your repository, create a folder named `figures` and upload your images there. Then you can link them like this:_
-`![Segmentation Result](figures/segmentation_example.png)`
+DATA (figures/Heizung_1.png)
 
-**Figure 2: Screenshot of the DiMash GUI**
-`![GUI Screenshot](figures/gui_example.png)`
+**Figure 1: AI-based Segmentation of a Plant Diagram**
+RESULTS (figures/Heizung_1.png)
 
 ---
 
