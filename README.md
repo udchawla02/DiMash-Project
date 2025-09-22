@@ -32,15 +32,23 @@ This tool automates the interpretation of plant diagrams through a multi-step AI
 
 ---
 
-## ✨ Project Visuals
+## ✨ Project in Action: An Example
 
-Here are some figures that showcase our data and results.
+This section shows the process of taking a standard heating diagram and processing it with our AI pipeline.
 
-**Figure 1: Graph of a Plant Diagram**
-DATA (Heizung_1.png)
+### Input: Original Plant Diagram
 
-**Figure 2: AI-based Segmentation of a Plant Diagram**
-RESULTS (figures/Heizung_1.png)
+This is the raw technical diagram that we use as input.
+
+![Original heating plant diagram](figures/Heizung_1.png)
+
+### Output: AI-based Segmentation
+
+This is the result after our AI model processes the diagram. You can see how different elements like symbols, text, and pipelines have been identified and color-coded.
+
+**Note:** You'll need to upload your results image to the `figures` folder. For this example to work, name it `Heizung_1_segmented.png`.
+
+![AI-based segmentation of the heating diagram](figures/Heizung_1_segmented.png)
 
 ---
 
